@@ -211,7 +211,7 @@ i {
 @media (max-width: 767px) {
   /* Styles for phone */
   .text-xl {
-    font-size: 64px;
+    font-size: 48px;
   }
   .text-l {
     font-size: 24px;
